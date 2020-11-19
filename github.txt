@@ -1,5 +1,9 @@
 git init 
 git add  --all ou nome do arquivo
 git status 
-git comit -m "babaksbaksas"	
-git remot add origin https://github.com/cerdate/projeto-ferrari	
+git commit -m "babaksbaksas"
+	
+git remote add origin https://github.com/cerdate/projeto-ferrari	
+git remote
+git remote -v 
+git push origin master
