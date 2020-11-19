@@ -1,0 +1,5 @@
+git init 
+git add  --all ou nome do arquivo
+git status 
+git comit -m "babaksbaksas"	
+git remot add origin https://github.com/cerdate/projeto-ferrari	
