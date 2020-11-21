@@ -126,7 +126,7 @@
         .btn-register{
             margin: 20px;
             width: calc(300px  - 40px);
-            @include button-red;
+            @include button-green;
         }
     }
     button {
